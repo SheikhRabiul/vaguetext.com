@@ -1,0 +1,3 @@
+[03-Jan-2017 03:05:38 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home/rabi1168/public_html/demo/ajax_req_res/post_writings.php on line 304
+[03-Jan-2017 03:05:44 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home/rabi1168/public_html/demo/ajax_req_res/post_writings.php on line 304
+[03-Jan-2017 03:26:32 America/Chicago] PHP Notice:  Undefined variable: error_string in /home/rabi1168/public_html/demo/ajax_req_res/post_writings.php on line 291

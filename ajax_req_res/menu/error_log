@@ -1,0 +1,10 @@
+[05-Jan-2017 22:04:58 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[05-Jan-2017 22:04:58 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[05-Jan-2017 22:04:58 America/Chicago] PHP Notice:  Undefined variable: rands in /home/rabi1168/public_html/demo/ajax_req_res/menu/password_reset.php on line 83
+[05-Jan-2017 22:12:28 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[05-Jan-2017 22:12:28 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[05-Jan-2017 22:12:32 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[05-Jan-2017 22:12:32 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[05-Jan-2017 22:16:05 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[05-Jan-2017 22:16:05 America/Chicago] PHP Warning:  mcrypt_encrypt(): Key of size 17 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported in /home/rabi1168/public_html/demo/function/common.php on line 4
+[06-Jan-2017 07:45:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rabi1168/public_html/demo/ajax_req_res/menu/password_reset_verification.php on line 96
